@@ -1,10 +1,6 @@
 # privacy
 
-Sovellusten tietosuojaselosteet / Privacy policies for apps.
-Julkaistu GitHub Pagesissa / Published with GitHub Pages: https://konderi.github.io/privacy/
+HeatCallin tietosuojaseloste on siirtynyt / The HeatCall privacy policy has moved:
+https://konderi.github.io/HeatCall/privacy/ (lähde / source: https://github.com/Konderi/HeatCall/tree/main/docs/privacy)
 
-| Sovellus / App | Seloste / Policy |
-|---|---|
-| HeatCall | https://konderi.github.io/privacy/heatcall/ |
-
-Uusi sovellus: lisää kansio `<sovellus>/index.html` ja rivi tiedostoon `index.html`.
+Tämä repo sisältää vain uudelleenohjaukset vanhoista osoitteista. / This repo only contains redirects from the old addresses.
